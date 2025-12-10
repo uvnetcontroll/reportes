@@ -1,10 +1,6 @@
----
-# Front Matter (Necesario para Jekyll)
-layout: default
-title: Uziel Vázquez Cruz - Consultor de Ciberseguridad
----
 
-#  Uziel Vázquez Cruz
+
+#  UVZ
 ### Consultor de Seguridad y Apasionado por el Análisis Forense
 
 
@@ -39,9 +35,9 @@ Organization**
 
 ---
 
-## 📂 Reportes y Desafíos (El Blog)
+## 📂 Reportes y Desafíos
 
-Esta será la sección principal para tus publicaciones. Cada enlace apuntará a un reporte escrito por ti en Markdown.
+
 
 ### Últimos Reportes
 
